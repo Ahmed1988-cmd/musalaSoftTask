@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MusalaSoft
 Selenium Framework Project Using Java, Maven, TestNG and POM
 
@@ -31,3 +32,7 @@ Selenium Framework Project Using Java, Maven, TestNG and POM
 :heavy_check_mark:	Java version 17
 
 🏷️ NB: If you wish to use SHAFT with IntelliJ please apply these settings: Run/Debug Configurations > Edit Configurations... > Templates > TestNG > Configuration > Listeners > Add all SHAFT_Engine Listeners [AlterSuite, InvokedMethod, Suite]
+=======
+# musalaSoft.
+Automation for musalaSoft Website
+>>>>>>> f30b5f3954b701b17abedb021eb5d812a5e5e57d
